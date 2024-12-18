@@ -44,7 +44,7 @@
     "date-fns": "^3.6.0",
     "dayjs": "^1.11.11",
     "electron-updater": "^6.1.8",
-    "html2pdf.js": "^0.9.3",
+    "html2pdf.js": "^0.10.2",
     "jspdf": "^2.5.1",
     "lodash": "^4.17.21",
     "material-react-table": "^2.13.0",
