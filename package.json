@@ -41,7 +41,7 @@
     "canvas": "^2.11.2",
     "classnames": "^2.5.1",
     "crypto-js": "^4.2.0",
-    "date-fns": "^3.6.0",
+    "date-fns": "^4.1.0",
     "dayjs": "^1.11.11",
     "electron-updater": "^6.1.8",
     "html2pdf.js": "^0.9.3",
